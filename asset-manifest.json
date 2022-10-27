@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mi-store-app/static/css/main.22940a6c.chunk.css",
+    "main.js": "/mi-store-app/static/js/main.09a5d9a6.chunk.js",
+    "main.js.map": "/mi-store-app/static/js/main.09a5d9a6.chunk.js.map",
+    "runtime-main.js": "/mi-store-app/static/js/runtime-main.a8262e41.js",
+    "runtime-main.js.map": "/mi-store-app/static/js/runtime-main.a8262e41.js.map",
+    "static/css/2.c4e73993.chunk.css": "/mi-store-app/static/css/2.c4e73993.chunk.css",
+    "static/js/2.650d8507.chunk.js": "/mi-store-app/static/js/2.650d8507.chunk.js",
+    "static/js/2.650d8507.chunk.js.map": "/mi-store-app/static/js/2.650d8507.chunk.js.map",
+    "index.html": "/mi-store-app/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/mi-store-app/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.22940a6c.chunk.css.map": "/mi-store-app/static/css/main.22940a6c.chunk.css.map",
+    "static/js/2.650d8507.chunk.js.LICENSE.txt": "/mi-store-app/static/js/2.650d8507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8262e41.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.650d8507.chunk.js",
+    "static/css/main.22940a6c.chunk.css",
+    "static/js/main.09a5d9a6.chunk.js"
+  ]
+}
